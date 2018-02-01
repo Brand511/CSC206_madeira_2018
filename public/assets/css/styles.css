@@ -1,0 +1,29 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall 
+body {
+  padding-top: 3.5rem;
+}
+*/
+
+a {
+	color: #711537;
+}
+
+.jumbotron {
+	background-image: url('/assets/images/AspenSnowmass.jpg');
+	
+	position: relative;
+	overflow: hidden;
+}
+
+.jumbotron h1, .jumbotron p {
+	color: white;
+}
+
+.jumbotron p {
+	font-size: 1.4rem;
+}
+
+.w-90 { width: 90%; }
+.w-80 { width: 80%; }
+.w-75 { width: 75%; }
+.w-70 { width: 70%; }
