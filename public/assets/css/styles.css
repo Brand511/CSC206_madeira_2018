@@ -10,7 +10,6 @@ a {
 
 .jumbotron {
 	background-image: url('/assets/images/AspenSnowmass.jpg');
-	
 	position: relative;
 	overflow: hidden;
 }
@@ -21,6 +20,17 @@ a {
 
 .jumbotron p {
 	font-size: 1.4rem;
+}
+
+.footer {
+	color: #fff;
+	background-color: #343a40;
+	text-align: center;
+}
+
+.footer p {
+
+	padding: 15px 0;
 }
 
 .w-90 { width: 90%; }
